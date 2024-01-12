@@ -1,1 +1,0 @@
-guess we need this folder for this theme

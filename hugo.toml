@@ -3,8 +3,6 @@ languageCode = 'en-us'
 title = 'Thoughtchamber'
 theme = "hermit-v2"
 
-
-
 #[languages]
 #  [languages.en]
 #    title = 'CHANGE ME'
@@ -46,10 +44,10 @@ enableEmoji = true
   # noreferrerLinks = true
   # nofollowLinks = true
 
-[taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
-  # category = "categories"
+# [taxonomies]
+#   tag = "tags"
+#   # Categories are disabled by default.
+#   # category = "categories"
 
 [params]
   dateform        = "Jan 2, 2006"
